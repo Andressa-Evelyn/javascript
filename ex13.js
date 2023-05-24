@@ -12,4 +12,7 @@ case 4:
     console.log('Quinta')
     break;
 } 
-
+var s = JSON.stringify(obj);
+undefined
+JSON.parse(s);
+{x: 12, y: 15}
